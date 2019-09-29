@@ -1,4 +1,4 @@
-# webiste-blacklist
+# domain blacklist
 
 We use this blacklist to block some sites in Google Search.
 
