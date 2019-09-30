@@ -1,6 +1,6 @@
 {
   "name": "domain-blacklist",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A blacklist for webistes.",
   "main": "blacklist.dist.txt",
   "devDependencies": {
