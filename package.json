@@ -1,24 +1,24 @@
 {
-  "name": "website-blacklist",
+  "name": "domain-blacklist",
   "version": "0.1.0",
   "description": "A blacklist for webistes.",
-  "main": "index.js",
+  "main": "blacklist.dist.txt",
   "devDependencies": {
     "jest": "^24.8.0"
   },
   "scripts": {
     "test": "jest",
-    "start": "npm run format",
-    "format": "node script/format.js"
+    "start": "npm run build",
+    "build": "node script/build.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codinggirl/website-blacklist.git"
+    "url": "git+https://github.com/codinggirl/domain-blacklist.git"
   },
   "author": "Richard Libre",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codinggirl/website-blacklist/issues"
+    "url": "https://github.com/codinggirl/domain-blacklist/issues"
   },
-  "homepage": "https://github.com/codinggirl/website-blacklist#readme"
+  "homepage": "https://github.com/codinggirl/domain-blacklist#readme"
 }
