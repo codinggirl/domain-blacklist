@@ -4,7 +4,7 @@
   "description": "A blacklist for webistes.",
   "main": "blacklist.dist.txt",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^25.2.1"
   },
   "scripts": {
     "test": "jest",
